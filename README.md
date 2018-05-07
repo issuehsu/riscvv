@@ -1,6 +1,10 @@
 ## 概要
 
-项目的初衷、目标、挑战、成果的描述见wiki：  
+本项目属于riscv-asic的一部分，总仓库链接：
+[https://github.com/icxhub/riscv-asic](https://github.com/icxhub/riscv-asic)  
+包括验证、综合、后端实现等。  
+
+本项目的初衷、目标、挑战、成果的描述见wiki：  
 [https://github.com/chenfengrugao/riscvv/wiki](https://github.com/chenfengrugao/riscvv/wiki)
 
 ## 项目的进度
