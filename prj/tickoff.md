@@ -1,4 +1,4 @@
-Date: 2018/5/14
+Date: 2018/5/14  
 Attendents: all 1st team members
 
 # Kickoff Meeting
