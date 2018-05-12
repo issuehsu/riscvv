@@ -8,7 +8,7 @@ Attendents: all 1st team members
 * project name
   * risc-v verification
 * backgrounds
-  * provide an entire SoC verification environment, and study in real project
+  * provide an entire SoC verification environment, and learn in real project
   * riscv(e200) rtl is ready
 * goals
   * verify e200 opensource rtl
