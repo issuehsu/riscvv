@@ -25,3 +25,11 @@ git@103.105.57.77's password:
 
 输入密码risvvgit
 
+# 修改和提交
+
+```
+git add xxx
+git commit -m "modified xxx"
+git push origin master
+```
+
