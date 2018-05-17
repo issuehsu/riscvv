@@ -6,7 +6,7 @@
 
 3. Host Name填入 `103.105.57.77` , Port默认`22`，Connection type选`SSH`
 
-4. login as:  `risvv`, password: `risvvuvm` 
+4. login as:  `risvv`, password: `ssh_password` 
 输入密码之后按回车会提示登录成功。此处输入密码界面没有*号提示。
 
 > login as: risvv
@@ -37,7 +37,7 @@ vncserver -geometry 1280x1024 -depth 24 :8
 
 > VNC Server: 103.105.57.77:3
 > Encryption: Let VNC Server choose
-> Passwd : risvvuvm
+> Passwd : vnc_password
 
 －－－－－－－－－  
 不忘出芯

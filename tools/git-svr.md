@@ -23,7 +23,7 @@ Clone into 'risvv' ...
 git@103.105.57.77's password: 
 ```
 
-输入密码risvvgit
+输入密码ssh_password_for_git
 
 # 修改和提交
 
