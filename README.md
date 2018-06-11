@@ -10,7 +10,7 @@
 ## 项目的进度
 
 进度情况请查看：  
-[://github.com/chenfengrugao/riscvv/blob/master/prj/schedule.md](https://github.com/chenfengrugao/riscvv/blob/master/prj/schedule.md)  
+[https://github.com/chenfengrugao/riscvv/blob/master/prj/schedule.md](https://github.com/chenfengrugao/riscvv/blob/master/prj/schedule.md)  
 ![Verificatin Plan](prj/gantt_vp.svg)  
 
 ## 目录结构说明
