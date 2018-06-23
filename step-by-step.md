@@ -1,6 +1,6 @@
 ## 项目step-by-step
 
-### 升级git到最新版2.17，以支持https协议进行git push
+### 升级git到2.17版本以上，以支持https协议进行git push
 
 安装依赖库
 ```
