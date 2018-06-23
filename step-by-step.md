@@ -32,7 +32,7 @@ ls /usr/libexec/git-core/git-remote-https
 ### clone项目仓库到本地
 
 ```
-git clone https://github/chenfengrugao/riscvv/riscvv.git
+git clone https://github.com/chenfengrugao/riscvv/riscvv.git
 ```
 
 ### 在test目录尝试修改和push
