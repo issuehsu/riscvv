@@ -18,7 +18,7 @@ sudo make prefix=/usr/local install
 
 确认安装目录里是否存在git_remote-https
 ```
-ls /usr/libexec/git-core/git-remote-https
+ls /usr/local/libexec/git-core/git-remote-https
 ```
 
 官网帮助文档：[https://git-scm.com/docs](https://git-scm.com/docs)  
