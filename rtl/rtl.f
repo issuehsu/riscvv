@@ -1,4 +1,3 @@
-./rtl/e203/core/config.v
 ./rtl/e203/core/e203_biu.v
 ./rtl/e203/core/e203_clk_ctrl.v
 ./rtl/e203/core/e203_clkgate.v

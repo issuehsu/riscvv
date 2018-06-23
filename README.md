@@ -19,6 +19,11 @@
 * doc 文档
 * rtl E200的rtl
 
+## 项目step-by-step
+
+新加入项目必读
+[https://github.com/chenfengrugao/riscvv/blob/master/step-by-step.md](https://github.com/chenfengrugao/riscvv/blob/master/step-by-step.md)  
+
 ## 常用文档链接
 
 * design spec
