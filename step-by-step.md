@@ -35,6 +35,19 @@ ls /usr/libexec/git-core/git-remote-https
 git clone https://github/chenfengrugao/riscvv/riscvv.git
 ```
 
+### 在test目录尝试修改和push
+
+```
+cd test
+gvim xxx.v
+
+git add xxx.v
+git commit -m "git push test"
+git push
+Username for 'https://github.com': <your github username>
+Password for 'https://<your github username>@github.com': <your github password>
+```
+
 ### 打开Verdi浏览RTL Code
 
 ```
