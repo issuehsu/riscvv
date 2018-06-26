@@ -11,7 +11,7 @@ yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
 ```
 wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.18.0.tar.gz
 tar -zxvf git-2.18.0.tar.gz
-cd git-1.7.2.2
+cd git-2.18.0
 make prefix=/usr/local all
 sudo make prefix=/usr/local install
 ```
