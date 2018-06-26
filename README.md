@@ -13,6 +13,9 @@
 [https://github.com/chenfengrugao/riscvv/blob/master/prj/schedule.md](https://github.com/chenfengrugao/riscvv/blob/master/prj/schedule.md)  
 ![Verificatin Plan](prj/gantt_vp.svg)  
 
+10 questions about E203 soc architecture & CPU core:  
+[https://github.com/chenfengrugao/riscvv/blob/master/prj/10-questions-archi.md](https://github.com/chenfengrugao/riscvv/blob/master/prj/10-questions-archi.md)
+
 ## 目录结构说明
 
 * prj 项目管理
