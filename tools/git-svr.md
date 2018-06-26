@@ -1,7 +1,7 @@
 
 # 注册github帐户
 
-得到，  
+例如：  
 邮箱：chenfengrugao@yahoo.com  
 用户名：chenfengrugao
 
@@ -18,12 +18,8 @@
 ```
 mkdir prj
 cd prj
-git clone git@103.105.57.77:/data/prj/riscvv
-Clone into 'risvv' ...
-git@103.105.57.77's password: 
+git clone https://github.com/chenfengrugao/riscvv.git
 ```
-
-输入密码ssh_password_for_git
 
 # 修改和提交
 
